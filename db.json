@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Huawei",
+      "price": 3500,
+      "imgUrl": "2.png",
+      "id": 2
+    },
+    {
+      "name": "Iphone 7",
+      "price": 4500,
+      "imgUrl": "3.png",
+      "id": 3
+    },
+    {
+      "name": "Nokia",
+      "price": 1000,
+      "imgUrl": "4.png",
+      "id": 4
+    },
+    {
+      "name": "Iphone 5",
+      "price": 2600,
+      "imgUrl": "1.jpg",
+      "id": 5
+    }
+  ]
+}
